@@ -1,97 +1,222 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+Name: "Asiya Badarunnisa Sainudeen"
+Position: "PhD Candidate in Geosciences"
+Affiliation: "University of Arizona"
+Email:
+  - "asiya@arizona.edu"
+  - "asiyaishal@gmail.com"
+Address: "Department of Geosciences, University of Arizona, Tucson, AZ, USA"
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+Education:
+  - Degree: "PhD in Geosciences"
+    institution: "University of Arizona"
+    location: "Tucson, AZ, USA"
+    start_year: 2021
+    end_year: 2026
+    status: "Expected"
+    advisors:
+      - "Marcus Lofverstrom"
+      - "Diane Thompson"
+    minor: "Global Change"
+    gpa: "4.0 / 4.0"
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+  - Degree: "BS–MS in Earth Sciences"
+    institution: "Indian Institute of Science Education and Research (IISER), Kolkata"
+    location: "Kolkata, India"
+    start_year: 2015
+    end_year: 2020
+    gpa: "9.0 / 10.0"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+Research Interests:
+  - "Climate modeling"
+  - "Precipitation variability"
+  - "South American monsoon dynamics"
+  - "ENSO and Atlantic Niño teleconnections"
+  - "Extreme climate events and attribution"
+  - "Moisture tracking and paleoclimate interpretation"
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+Publications:
+  - authors: "Sainudeen, A. B., Lofverstrom, M., Thompson, D."
+    year: 2025
+    title: "Characterizing South American summer hydroclimate using a new water-tag enabled variable-resolution CESM global simulation"
+    status: "In preparation"
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+  - authors: "Sainudeen, A. B., Lofverstrom, M., Thompson, D."
+    year: 2025
+    title: "Evolution of ENSO in the 21st century and its impact on Amazon rainfall during the monsoon season from the perspective of a multi-model large ensemble"
+    status: "In preparation"
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+  - authors: "Sainudeen, A. B., Lofverstrom, M., Thompson, D., Bush, M., Rodbell, D., Cook, M., Hlohowskyj, S."
+    year: 2025
+    title: "CMIP6 models under the lens: Evaluating the representation of the South American Summer Monsoon"
+    journal: "Journal of Climate"
+    status: "In minor revision"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+  - authors: "Mishra, S. K., Upadhyaya, P., Fasullo, J. T., Keshri, N. P., Salunke, P., Ghosh, A., Sainudeen, A. B., Kang, I.-S."
+    year: 2023
+    title: "A need for actionable climate projections across the global South"
+    journal: "Nature Climate Change"
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+  - authors: "Dasgupta, B., Sainudeen, A. B., Ajay, A., Sanyal, P."
+    year: 2022
+    title: "Hydrometeorological progression of the Himalayan cryosphere: The Karakoram predicament"
+    journal: "Journal of Hydrology"
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+Presentations:
+  - year: 2025
+    venue: "AGU Annual Meeting"
+    type: "Poster"
+    title: "Exploring the Moisture Sources and Pathways for South American Rainfall Using Variable-Resolution CESM Simulations"
+    location: "New Orleans, LA, USA"
+
+  - year: 2025
+    venue: "CESM Workshop"
+    type: "Talk"
+    title: "Exploring the Moisture Sources and Pathways for South American Rainfall Using Variable-Resolution CESM2.2 Geotrace Simulations"
+    location: "Boulder, CO, USA"
+
+  - year: 2024
+    venue: "GeoDaze, University of Arizona"
+    type: "Talk"
+    title: "South American Hydroclimate in High-Resolution Global Climate Models"
+    location: "Tucson, AZ, USA"
+
+  - year: 2023
+    venue: "AGU Fall Meeting"
+    type: "Poster"
+    title: "South American summer precipitation in CMIP6 models"
+    location: "San Francisco, CA, USA"
+
+Teaching Experience:
+  - role: "Teaching Assistant"
+    course: "Geological Disasters and Society"
+    institution: "University of Arizona"
+    Semesters: "2025 Fall, 2025 Spring"
+    responsibilities:
+      - "Led study groups"
+      - "Graded assignments and exams"
+      - "Supported large enrollment course (>120 students & one TA)"
+
+  - role: "Teaching Assistant"
+    course: "Programming and Data Analysis in Earth Sciences"
+    institution: "University of Arizona"
+    Semester: "2024 Fall"
+    responsibilities:
+      - "Led study groups"
+      - "Graded assignments and exams"
+      - "Took care of the class during the in-class assignment sessions"
+
+  - role: "Teaching Assistant"
+    course: "Introduction to Oceanography"
+    institution: "University of Arizona"
+    Semesters: "Fall 2023, Spring 2024"
+    responsibilities:
+      - "Collaborated with other TAs to assist students during class activities"
+      - "Held office hours"
+      - "Managed course email and addressed student concerns and graded assignments and exams"
+
+Positions of Responsibility and DEI:
+  - role: "Vice President"
+    organization: "Association for Women Geoscientists (AWG), Southern Arizona Chapter"
+    years: "2023–2025"
+
+  - role: "Mentorship Chair"
+    organization: "Association for Women Geoscientists (AWG), Southern Arizona Chapter"
+    years: "2022–2023"
+
+  - role: "Mentor"
+    organization: "Association for Women Geoscientists (AWG), Southern Arizona Chapter"
+    years: "2021–2022"
+
+  - role: "Organizing Committee Member"
+    organization: "GeoDaze, University of Arizona Geosciences Symposium"
+    years: "2022–2025"
+
+  - role: "Grants Judge"
+    organization: "Graduate and Professional Student Council (GPSC), University of Arizona"
+    years: "Spring 2024"
+
+  - role: "Participant"
+    organization: "Student Stories of Climate Change"
+    years: "2023–Present"
+
+  - role: "Volunteer"
+    organization: "Ek Pehal, IISER Kolkata"
+    years: "2015–2020"
+
+Grants and Awards:
+  - "Galileo Circle Scholar, College of Science, University of Arizona (2024–2025)"
+  - "Marie S. Pearthree Summer Research Scholarship, University of Arizona (Summer 2025)"
+  - "Sulzer Earth Science Scholarship, University of Arizona (Fall 2024)"
+  - "Sulzer Summer Scholarship, University of Arizona (2024)"
+  - "Melange Summer Scholarship, University of Arizona (2023)"
+  - "William and Clara Sulzer Scholarship, University of Arizona (May 2022)"
+  - "Herbert E. Carter Travel Award, University of Arizona (December 2025)"
+  - "University of Arizona GPSC Travel Award (2022)"
+  - "University of Arizona GPSC Travel Award (2023)"
+  - "University of Arizona GPSC Travel Award (2025)"
+  - "Roland Schlich Early Career Scientist Travel Support, EGU (2020)"
+  - "DST–INSPIRE Fellowship, Government of India (2015–2020)"
+  - "Best Graduate Poster Award, GeoDaze, University of Arizona (2025)"
+  - "Best Poster Award, Convergence, IISER Kolkata (2019)"
+
+Tutorials and Training:
+  - year: 2023
+    title: "ForceSMIP Hackathon"
+    location: "In-person"
+
+  - year: 2023
+    title: "CESM Tutorial"
+    location: "NCAR Mesa Laboratory, Boulder, CO, USA"
+
+  - year: 2022
+    title: "NCAR Python Tutorial"
+    location: "NCAR"
+
+Research Experience:
+  - role: "PhD Researcher"
+    institution: "University of Arizona"
+    years: "2021–Present"
+
+  - role: "Research Assistant"
+    institution: "IIT Delhi"
+    years: "2020–2021"
+
+Skills:
+  Programming:
+    - "Python"
+    - "MATLAB"
+    - "NCL"
+    - "R"
+  Climate Tools:
+    - "CESM / CESM2 with water tags and variable resolution grids"
+    - "CDO"
+    - "NCO"
+    - "Ferret"
+  Visualization:
+    - "Matplotlib"
+    - "Cartopy"
+    - "ImageMagick"
+  Systems:
+    - "Linux"
+    - "Unix"
+    - "macOS"
+  Markup:
+    - "LaTeX"
+
+Professional Memberships:
+  - "American Geophysical Union (AGU)"
+  - "Association for Women Geoscientists (AWG)"
+  - "European Geosciences Union (EGU)"
+
+Fieldwork:
+  - year: 2024
+    location: "Galápagos Archipelago"
+    description: "Lake sediment coring for hydroclimate reconstruction"
+
+  - year: 2018
+    location: "Chandipur & Dagara Beach, India"
+    description: "Sedimentology and coastal processes fieldwork"
+
+  - year: 2017
+    location: "Balesore and Singbhum"
+    description: "Structural Geology fieldwork"
