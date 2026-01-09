@@ -1,222 +1,295 @@
-Name: "Asiya Badarunnisa Sainudeen"
-Position: "PhD Candidate in Geosciences"
-Affiliation: "University of Arizona"
-Email:
-  - "asiya@arizona.edu"
-  - "asiyaishal@gmail.com"
-Address: "Department of Geosciences, University of Arizona, Tucson, AZ, USA"
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Asiya Badarunnisa Sainudeen
+    - name: Occupation
+      value: PhD Candidate in Geosciences
+    - name: Affiliation
+      value: University of Arizona
+    - name: Location
+      value: Tucson, AZ, USA
+    - name: Email
+      value: asiya@arizona.edu, asiyaishal@gmail.com
+    - name: Address
+      value: Department of Geosciences, University of Arizona, 1040 E 4th St, Tucson, AZ 85719
 
-Education:
-  - Degree: "PhD in Geosciences"
-    institution: "University of Arizona"
-    location: "Tucson, AZ, USA"
-    start_year: 2021
-    end_year: 2026
-    status: "Expected"
-    advisors:
-      - "Marcus Lofverstrom"
-      - "Diane Thompson"
-    minor: "Global Change"
-    gpa: "4.0 / 4.0"
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD Candidate in Geosciences
+      institution: University of Arizona, Tucson, AZ, USA
+      year: Aug 2021 - Present
+      description:
+        - Advisor: Marcus Lofverstrom
+        - Co-advisor: Diane Thompson
+        - Minor: Global Change
+        - Expected graduation: May 2026
+        - GPA: 4.0/4.0
+    - title: BS-MS in Earth Sciences
+      institution: Indian Institute of Science Education and Research (IISER) Kolkata, India
+      year: 2015 - 2020
+      description:
+        - CGPA: 9/10
 
-  - Degree: "BS–MS in Earth Sciences"
-    institution: "Indian Institute of Science Education and Research (IISER), Kolkata"
-    location: "Kolkata, India"
-    start_year: 2015
-    end_year: 2020
-    gpa: "9.0 / 10.0"
+- title: Research Interests
+  type: list
+  contents:
+    - Climate modeling
+    - Precipitation variability
+    - South American monsoon dynamics
+    - ENSO and Atlantic Niño teleconnections
+    - Extreme climate events and attribution studies
+    - Moisture tracking and paleoclimate interpretation
+    - Climate mitigation
 
-Research Interests:
-  - "Climate modeling"
-  - "Precipitation variability"
-  - "South American monsoon dynamics"
-  - "ENSO and Atlantic Niño teleconnections"
-  - "Extreme climate events and attribution"
-  - "Moisture tracking and paleoclimate interpretation"
+- title: Peer-Reviewed Publications
+  type: time_table
+  contents:
+    - title: Characterizing South American summer hydroclimate using a new water tag-enabled variable-resolution CESM global simulation
+      institution: In preparation
+      year: 2025
+      description: Sainudeen, A. B., Lofverstrom, M., Thompson, D.
+    - title: Evolution of ENSO in the 21st century and its impact on Amazon rainfall during the monsoon season from the perspective of a multi-model large ensemble
+      institution: In preparation
+      year: 2025
+      description: Sainudeen, A. B., Lofverstrom, M., Thompson, D.
+    - title: CMIP6 models under the lens: Evaluating the representation of the South American Summer Monsoon
+      institution: Journal of Climate (In minor revision)
+      year: 2025
+      description: Sainudeen, A. B., Lofverstrom, M., Thompson, D., Bush, M., Rodbell, D., Cook, M., Hlohowskyj, S.
+    - title: A need for actionable climate projections across the global South
+      institution: Nature Climate Change
+      year: 2023
+      description: Mishra, S. K., Upadhyaya, P., Fasullo, J. T., Keshri, N. P., Salunke, P., Ghosh, A., Sainudeen, A. B., Kang, I.-S.
+    - title: Hydrometeorological progression of the Himalayan cryosphere: The Karakoram predicament
+      institution: Journal of Hydrology
+      year: 2022
+      description: Dasgupta, B., Sainudeen, A. B., Ajay, A., Sanyal, P.
 
-Publications:
-  - authors: "Sainudeen, A. B., Lofverstrom, M., Thompson, D."
-    year: 2025
-    title: "Characterizing South American summer hydroclimate using a new water-tag enabled variable-resolution CESM global simulation"
-    status: "In preparation"
+- title: Presentations
+  type: time_table
+  contents:
+    - title: Exploring the Moisture Sources and Pathways for South American Rainfall Using Variable-Resolution CESM Simulations
+      institution: AGU Annual Meeting (Poster), New Orleans, LA, USA
+      year: Dec 2025
+      description:
+        - GC51G-0270
+    - title: Exploring the Moisture Sources and Pathways for South American Rainfall Using Variable-Resolution CESM2.2 Geotrace Simulations
+      institution: CESM Workshop (Talk), Boulder, CO, USA
+      year: Jun 2025
+    - title: Exploring the Moisture Sources and Pathways for South American Rainfall Using Variable-Resolution CESM Simulations
+      institution: GeoDaze, University of Arizona (Poster), Tucson, AZ, USA
+      year: Mar 2025
+    - title: South American Hydroclimate in High-Resolution Global Climate Model: Pushing Boundaries with Variable Resolution Simulations
+      institution: GeoDaze, University of Arizona (Talk), Tucson, AZ, USA
+      year: Mar 2024
+    - title: South American summer precipitation in CMIP6 models
+      institution: AGU Fall Meeting (Poster), San Francisco, CA, USA
+      year: Dec 2023
+      description:
+        - GC22F-0665
+    - title: Impact of El Niño-Southern Oscillation on South American hydroclimate in CMIP6
+      institution: AGU Fall Meeting (Poster), Chicago, IL, USA
+      year: Dec 2022
+    - title: Understanding the new norm of extreme events: Atmospheric rivers and climate change
+      institution: GeoDaze, University of Arizona (Poster), Tucson, AZ, USA
+      year: Mar 2022
+    - title: Impact of surface warming over the Equatorial Pacific Ocean on western disturbances precipitation
+      institution: EGU General Assembly (Poster), Online
+      year: May 2020
+      description:
+        - EGU2020-633
 
-  - authors: "Sainudeen, A. B., Lofverstrom, M., Thompson, D."
-    year: 2025
-    title: "Evolution of ENSO in the 21st century and its impact on Amazon rainfall during the monsoon season from the perspective of a multi-model large ensemble"
-    status: "In preparation"
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Guest Lecturer, GEOS 437/537 Introduction to Earth-system modeling
+      institution: University of Arizona
+      year: Fall 2023
+      description:
+        - Delivered 1 class session
+    - title: Teaching Assistant, Geological Disasters and Society
+      institution: University of Arizona (Instructor: Paul Goodman)
+      year: Spring 2025 and Fall 2025
+      description:
+        - Class size: 120 students (1 TA)
+        - Led study groups and assisted students with assignments
+        - Graded assignments and exams
+    - title: Teaching Assistant, Programming and Data Analysis in Earth Sciences
+      institution: University of Arizona (Instructor: Chris Harig)
+      year: Fall 2024
+      description:
+        - Class size: 50 students (1 TA)
+        - Supported in-class coding exercises and projects
+        - Graded homework and final assignments
+    - title: Teaching Assistant, Introduction to Oceanography
+      institution: University of Arizona (Instructors: Joellen Russell, Paul Goodman)
+      year: Fall 2023 and Spring 2024
+      description:
+        - Class size: >400 students (3 TAs)
+        - Held office hours, managed course email, and graded assessments
+    - title: Teaching Assistant, Introduction to Computer Programming
+      institution: IISER Kolkata
+      year: Autumn 2019
+      description:
+        - Class size: 200 students (4 TAs)
+        - Assisted with coding during class and graded assignments
+    - title: Teaching Assistant, Introduction to Environmental Science
+      institution: IISER Kolkata
+      year: Spring 2020
+      description:
+        - Class size: 100 students (2 TAs)
+        - Led field trip and guided homework sessions
 
-  - authors: "Sainudeen, A. B., Lofverstrom, M., Thompson, D., Bush, M., Rodbell, D., Cook, M., Hlohowskyj, S."
-    year: 2025
-    title: "CMIP6 models under the lens: Evaluating the representation of the South American Summer Monsoon"
-    journal: "Journal of Climate"
-    status: "In minor revision"
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: PhD Candidate, Department of Geosciences
+      institution: University of Arizona
+      year: Aug 2021 - Present
+      description:
+        - Evaluating climate models for tropical South American summer rainfall
+        - Using large ensembles to isolate forced vs internal variability in Amazon rainfall
+        - Running variable-resolution CESM simulations with moisture tracking to diagnose moisture sources and pathways from mid-Holocene to future
+    - title: Research Assistant
+      institution: Indian Institute of Technology Delhi
+      year: Jul 2020 - Jun 2021
+      description:
+        - Analyzed improvements in CMIP projections for South Asia with Saroj Kanta Mishra
+    - title: MS Thesis Research
+      institution: IISER Kolkata
+      year: 2019 - 2020
+      description:
+        - Topic: Role of global oceans in driving Western Disturbances precipitation
+        - Supervisor: Prasanta Sanyal
+    - title: Summer Internship
+      institution: Indian Institute of Tropical Meteorology (IITM), Pune
+      year: May 2019 - Jul 2019
+      description:
+        - Topic: Atlantic Meridional Overturning Circulation as a climate driver
+        - Supervisor: C. Gnanaseelan
+    - title: Summer Internship
+      institution: Indian Institute of Science (IISc), Bangalore
+      year: May 2018 - Jul 2018
+      description:
+        - Topic: Change in lake isotopic composition with hydrological processes
+        - Supervisor: Sambudha Misra
+    - title: Summer Internship
+      institution: Indian Institute of Tropical Meteorology (IITM), Pune
+      year: May 2017 - Jul 2017
+      description:
+        - Topic: Rainfall variability over northeast India
+        - Supervisor: Hamza Varikoden
+    - title: Summer Internship
+      institution: Indian Institute of Space Science and Technology, Trivandrum
+      year: May 2016 - Jul 2016
+      description:
+        - Topic: Simulation of HUDHUD cyclone using WRF-ARW
+        - Supervisor: Govindan Kutty M.
 
-  - authors: "Mishra, S. K., Upadhyaya, P., Fasullo, J. T., Keshri, N. P., Salunke, P., Ghosh, A., Sainudeen, A. B., Kang, I.-S."
-    year: 2023
-    title: "A need for actionable climate projections across the global South"
-    journal: "Nature Climate Change"
+- title: Grants, Scholarships, and Fellowships
+  type: list
+  contents:
+    - Galileo Circle Scholar, College of Science, University of Arizona (2024-2025)
+    - Marie S. Pearthree Summer Research Scholarship, University of Arizona (Summer 2025)
+    - Sulzer Earth Science Scholarship, University of Arizona (Fall 2024)
+    - Sulzer Summer Scholarship, University of Arizona (2024)
+    - Melange Summer Scholarship, University of Arizona (2023)
+    - William and Clara Sulzer Scholarship, Department of Geosciences, University of Arizona (May 2022)
+    - Herbert E. Carter Travel Award, University of Arizona (Dec 2025)
+    - University of Arizona GPSC Travel Award (2022)
+    - University of Arizona GPSC Travel Award (2023)
+    - University of Arizona GPSC Travel Award (2025)
+    - Roland Schlich Early Career Scientist Travel Support, EGU (2020)
+    - DST-INSPIRE Fellowship, Government of India (2015-2020)
 
-  - authors: "Dasgupta, B., Sainudeen, A. B., Ajay, A., Sanyal, P."
-    year: 2022
-    title: "Hydrometeorological progression of the Himalayan cryosphere: The Karakoram predicament"
-    journal: "Journal of Hydrology"
+- title: Awards and Achievements
+  type: list
+  contents:
+    - College of Science Outstanding Graduate Student Departmental Award for Excellence in Service, University of Arizona
+    - Best Graduate Poster Award, GeoDaze 2025, University of Arizona
+    - Best Poster Award, Convergence 2019, IISER Kolkata
+    - CSIR-NET Lectureship Eligibility in Earth Sciences (Dec 2018), All India Rank 76
 
-Presentations:
-  - year: 2025
-    venue: "AGU Annual Meeting"
-    type: "Poster"
-    title: "Exploring the Moisture Sources and Pathways for South American Rainfall Using Variable-Resolution CESM Simulations"
-    location: "New Orleans, LA, USA"
+- title: Tutorials and Training
+  type: time_table
+  contents:
+    - title: ForceSMIP Hackathon
+      institution: In-person workshop
+      year: Aug 2023
+      description:
+        - Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP)
+        - Statistical methods for isolating forced climate responses using ensembles
+    - title: CESM Tutorial
+      institution: NCAR Mesa Laboratory, Boulder, CO, USA
+      year: Jul 2023
+    - title: NCAR Python Tutorial
+      institution: NCAR
+      year: Jun 2022
 
-  - year: 2025
-    venue: "CESM Workshop"
-    type: "Talk"
-    title: "Exploring the Moisture Sources and Pathways for South American Rainfall Using Variable-Resolution CESM2.2 Geotrace Simulations"
-    location: "Boulder, CO, USA"
+- title: Positions of Responsibility, Outreach, and DEI
+  type: time_table
+  contents:
+    - title: Vice President
+      institution: Association for Women Geoscientists (AWG), Southern Arizona Chapter
+      year: 2023 - 2025
+    - title: Mentorship Chair
+      institution: Association for Women Geoscientists (AWG), Southern Arizona Chapter
+      year: 2022 - 2023
+    - title: Mentor
+      institution: Association for Women Geoscientists (AWG), Southern Arizona Chapter
+      year: 2021 - 2022
+    - title: Organizing Committee Member
+      institution: GeoDaze, University of Arizona Geosciences Symposium
+      year: 2022 - 2025
+    - title: Grants Judge
+      institution: Graduate and Professional Student Council (GPSC), University of Arizona
+      year: Spring 2024
+    - title: Participant
+      institution: Student Stories of Climate Change
+      year: Ongoing
+      description:
+        - Climate change education outreach in Tucson middle and high school classrooms
+    - title: Volunteer
+      institution: Ek Pehal, IISER Kolkata
+      year: 2015 - 2020
+      description:
+        - Provided free education support to underprivileged students
 
-  - year: 2024
-    venue: "GeoDaze, University of Arizona"
-    type: "Talk"
-    title: "South American Hydroclimate in High-Resolution Global Climate Models"
-    location: "Tucson, AZ, USA"
+- title: Computational Skills
+  type: list
+  contents:
+    - Scripting languages: Python, MATLAB, NCL, R
+    - Operating systems: Mac, Windows, Linux, Unix
+    - Climate data analysis and visualization: Ferret, CDO, NCO, ImageMagick
+    - Models: Community Earth System Model (CESM)
+    - Markup: LaTeX
+    - Experience with supercomputing clusters for climate modeling and large-scale climate data analysis
+    - Currently running CESM2 with variable resolution and moisture tagging capabilities
 
-  - year: 2023
-    venue: "AGU Fall Meeting"
-    type: "Poster"
-    title: "South American summer precipitation in CMIP6 models"
-    location: "San Francisco, CA, USA"
+- title: Professional Memberships
+  type: list
+  contents:
+    - American Geophysical Union (AGU), Member (2021 - Present)
+    - Association for Women Geoscientists (AWG), Member (2021 - Present)
+    - European Geosciences Union (EGU), Member (2019 - 2020)
 
-Teaching Experience:
-  - role: "Teaching Assistant"
-    course: "Geological Disasters and Society"
-    institution: "University of Arizona"
-    Semesters: "2025 Fall, 2025 Spring"
-    responsibilities:
-      - "Led study groups"
-      - "Graded assignments and exams"
-      - "Supported large enrollment course (>120 students & one TA)"
-
-  - role: "Teaching Assistant"
-    course: "Programming and Data Analysis in Earth Sciences"
-    institution: "University of Arizona"
-    Semester: "2024 Fall"
-    responsibilities:
-      - "Led study groups"
-      - "Graded assignments and exams"
-      - "Took care of the class during the in-class assignment sessions"
-
-  - role: "Teaching Assistant"
-    course: "Introduction to Oceanography"
-    institution: "University of Arizona"
-    Semesters: "Fall 2023, Spring 2024"
-    responsibilities:
-      - "Collaborated with other TAs to assist students during class activities"
-      - "Held office hours"
-      - "Managed course email and addressed student concerns and graded assignments and exams"
-
-Positions of Responsibility and DEI:
-  - role: "Vice President"
-    organization: "Association for Women Geoscientists (AWG), Southern Arizona Chapter"
-    years: "2023–2025"
-
-  - role: "Mentorship Chair"
-    organization: "Association for Women Geoscientists (AWG), Southern Arizona Chapter"
-    years: "2022–2023"
-
-  - role: "Mentor"
-    organization: "Association for Women Geoscientists (AWG), Southern Arizona Chapter"
-    years: "2021–2022"
-
-  - role: "Organizing Committee Member"
-    organization: "GeoDaze, University of Arizona Geosciences Symposium"
-    years: "2022–2025"
-
-  - role: "Grants Judge"
-    organization: "Graduate and Professional Student Council (GPSC), University of Arizona"
-    years: "Spring 2024"
-
-  - role: "Participant"
-    organization: "Student Stories of Climate Change"
-    years: "2023–Present"
-
-  - role: "Volunteer"
-    organization: "Ek Pehal, IISER Kolkata"
-    years: "2015–2020"
-
-Grants and Awards:
-  - "Galileo Circle Scholar, College of Science, University of Arizona (2024–2025)"
-  - "Marie S. Pearthree Summer Research Scholarship, University of Arizona (Summer 2025)"
-  - "Sulzer Earth Science Scholarship, University of Arizona (Fall 2024)"
-  - "Sulzer Summer Scholarship, University of Arizona (2024)"
-  - "Melange Summer Scholarship, University of Arizona (2023)"
-  - "William and Clara Sulzer Scholarship, University of Arizona (May 2022)"
-  - "Herbert E. Carter Travel Award, University of Arizona (December 2025)"
-  - "University of Arizona GPSC Travel Award (2022)"
-  - "University of Arizona GPSC Travel Award (2023)"
-  - "University of Arizona GPSC Travel Award (2025)"
-  - "Roland Schlich Early Career Scientist Travel Support, EGU (2020)"
-  - "DST–INSPIRE Fellowship, Government of India (2015–2020)"
-  - "Best Graduate Poster Award, GeoDaze, University of Arizona (2025)"
-  - "Best Poster Award, Convergence, IISER Kolkata (2019)"
-
-Tutorials and Training:
-  - year: 2023
-    title: "ForceSMIP Hackathon"
-    location: "In-person"
-
-  - year: 2023
-    title: "CESM Tutorial"
-    location: "NCAR Mesa Laboratory, Boulder, CO, USA"
-
-  - year: 2022
-    title: "NCAR Python Tutorial"
-    location: "NCAR"
-
-Research Experience:
-  - role: "PhD Researcher"
-    institution: "University of Arizona"
-    years: "2021–Present"
-
-  - role: "Research Assistant"
-    institution: "IIT Delhi"
-    years: "2020–2021"
-
-Skills:
-  Programming:
-    - "Python"
-    - "MATLAB"
-    - "NCL"
-    - "R"
-  Climate Tools:
-    - "CESM / CESM2 with water tags and variable resolution grids"
-    - "CDO"
-    - "NCO"
-    - "Ferret"
-  Visualization:
-    - "Matplotlib"
-    - "Cartopy"
-    - "ImageMagick"
-  Systems:
-    - "Linux"
-    - "Unix"
-    - "macOS"
-  Markup:
-    - "LaTeX"
-
-Professional Memberships:
-  - "American Geophysical Union (AGU)"
-  - "Association for Women Geoscientists (AWG)"
-  - "European Geosciences Union (EGU)"
-
-Fieldwork:
-  - year: 2024
-    location: "Galápagos Archipelago"
-    description: "Lake sediment coring for hydroclimate reconstruction"
-
-  - year: 2018
-    location: "Chandipur & Dagara Beach, India"
-    description: "Sedimentology and coastal processes fieldwork"
-
-  - year: 2017
-    location: "Balesore and Singbhum"
-    description: "Structural Geology fieldwork"
+- title: Fieldwork
+  type: time_table
+  contents:
+    - title: Lake sediment fieldwork, Galápagos Archipelago
+      institution: Genovesa and Bainbridge
+      year: Sep 2024 - Oct 2024
+      description:
+        - Collected lake sediments for reconstructing regional hydroclimate signals
+    - title: Sedimentology fieldwork
+      institution: Chandipur tidal front and Dagara Beach, India
+      year: Dec 2018
+      description:
+        - Studied sedimentary facies and sedimentary structures
+    - title: Structural geology fieldwork
+      institution: Ghatshila and Galudi, India
+      year: Dec 2017
+      description:
+        - Identified and interpreted structural geometry of deformed rocks in the field
