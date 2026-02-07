@@ -21,11 +21,11 @@
       institution: University of Arizona, Tucson, AZ, USA
       year: Aug 2021 - Present
       description:
-        - Advisor: Marcus Lofverstrom
-        - Co-advisor: Diane Thompson
-        - Minor: Global Change
-        - Expected graduation: May 2026
-        - GPA: 4.0/4.0
+        - "Advisor: Marcus Lofverstrom"
+        - "Co-advisor: Diane Thompson"
+        - "Minor: Global Change"
+        - "Expected graduation: May 2026"
+        - "GPA: 4.0/4.0"
     - title: BS-MS in Earth Sciences
       institution: Indian Institute of Science Education and Research (IISER) Kolkata, India
       year: 2015 - 2020
@@ -54,15 +54,15 @@
       institution: In preparation
       year: 2025
       description: Sainudeen, A. B., Lofverstrom, M., Thompson, D.
-    - title: CMIP6 models under the lens: Evaluating the representation of the South American Summer Monsoon
-      institution: Journal of Climate (In minor revision)
+    - title: "CMIP6 models under the lens: Evaluating the representation of the South American Summer Monsoon"
+      institution: "Journal of Climate (Accepted for publication)"
       year: 2025
       description: Sainudeen, A. B., Lofverstrom, M., Thompson, D., Bush, M., Rodbell, D., Cook, M., Hlohowskyj, S.
     - title: A need for actionable climate projections across the global South
       institution: Nature Climate Change
       year: 2023
       description: Mishra, S. K., Upadhyaya, P., Fasullo, J. T., Keshri, N. P., Salunke, P., Ghosh, A., Sainudeen, A. B., Kang, I.-S.
-    - title: Hydrometeorological progression of the Himalayan cryosphere: The Karakoram predicament
+    - title: "Hydrometeorological progression of the Himalayan cryosphere: The Karakoram predicament"
       institution: Journal of Hydrology
       year: 2022
       description: Dasgupta, B., Sainudeen, A. B., Ajay, A., Sanyal, P.
@@ -81,7 +81,7 @@
     - title: Exploring the Moisture Sources and Pathways for South American Rainfall Using Variable-Resolution CESM Simulations
       institution: GeoDaze, University of Arizona (Poster), Tucson, AZ, USA
       year: Mar 2025
-    - title: South American Hydroclimate in High-Resolution Global Climate Model: Pushing Boundaries with Variable Resolution Simulations
+    - title: "South American Hydroclimate in High-Resolution Global Climate Model: Pushing Boundaries with Variable Resolution Simulations"
       institution: GeoDaze, University of Arizona (Talk), Tucson, AZ, USA
       year: Mar 2024
     - title: South American summer precipitation in CMIP6 models
@@ -92,7 +92,7 @@
     - title: Impact of El Niño-Southern Oscillation on South American hydroclimate in CMIP6
       institution: AGU Fall Meeting (Poster), Chicago, IL, USA
       year: Dec 2022
-    - title: Understanding the new norm of extreme events: Atmospheric rivers and climate change
+    - title: "Understanding the new norm of extreme events: Atmospheric rivers and climate change"
       institution: GeoDaze, University of Arizona (Poster), Tucson, AZ, USA
       year: Mar 2022
     - title: Impact of surface warming over the Equatorial Pacific Ocean on western disturbances precipitation
@@ -110,36 +110,36 @@
       description:
         - Delivered 1 class session
     - title: Teaching Assistant, Geological Disasters and Society
-      institution: University of Arizona (Instructor: Paul Goodman)
-      year: Spring 2025 and Fall 2025
+      institution: "University of Arizona (Instructor: Paul Goodman)"
+      year: Spring 2025, Fall 2025
       description:
-        - Class size: 120 students (1 TA)
+        - "Class size: 120 students (1 TA)"
         - Led study groups and assisted students with assignments
         - Graded assignments and exams
     - title: Teaching Assistant, Programming and Data Analysis in Earth Sciences
-      institution: University of Arizona (Instructor: Chris Harig)
+      institution: "University of Arizona (Instructor: Chris Harig)"
       year: Fall 2024
       description:
-        - Class size: 50 students (1 TA)
+        - "Class size: 50 students (1 TA)"
         - Supported in-class coding exercises and projects
         - Graded homework and final assignments
     - title: Teaching Assistant, Introduction to Oceanography
-      institution: University of Arizona (Instructors: Joellen Russell, Paul Goodman)
-      year: Fall 2023 and Spring 2024
+      institution: "University of Arizona (Instructors: Joellen Russell, Paul Goodman)"
+      year: Fall 2023, Spring 2024
       description:
-        - Class size: >400 students (3 TAs)
+        - "Class size: >400 students (3 TAs)"
         - Held office hours, managed course email, and graded assessments
     - title: Teaching Assistant, Introduction to Computer Programming
       institution: IISER Kolkata
       year: Autumn 2019
       description:
-        - Class size: 200 students (4 TAs)
+        - "Class size: 200 students (4 TAs)"
         - Assisted with coding during class and graded assignments
     - title: Teaching Assistant, Introduction to Environmental Science
       institution: IISER Kolkata
       year: Spring 2020
       description:
-        - Class size: 100 students (2 TAs)
+        - "Class size: 100 students (2 TAs)"
         - Led field trip and guided homework sessions
 
 - title: Research Experience
@@ -167,26 +167,26 @@
       institution: Indian Institute of Tropical Meteorology (IITM), Pune
       year: May 2019 - Jul 2019
       description:
-        - Topic: Atlantic Meridional Overturning Circulation as a climate driver
-        - Supervisor: C. Gnanaseelan
+        - "Topic: Atlantic Meridional Overturning Circulation as a climate driver"
+        - "Supervisor: C. Gnanaseelan"
     - title: Summer Internship
       institution: Indian Institute of Science (IISc), Bangalore
       year: May 2018 - Jul 2018
       description:
-        - Topic: Change in lake isotopic composition with hydrological processes
-        - Supervisor: Sambudha Misra
+        - "Topic: Change in lake isotopic composition with hydrological processes"
+        - "Supervisor: Sambudha Misra"
     - title: Summer Internship
       institution: Indian Institute of Tropical Meteorology (IITM), Pune
       year: May 2017 - Jul 2017
       description:
-        - Topic: Rainfall variability over northeast India
-        - Supervisor: Hamza Varikoden
+        - "Topic: Rainfall variability over northeast India"
+        - "Supervisor: Hamza Varikoden"
     - title: Summer Internship
       institution: Indian Institute of Space Science and Technology, Trivandrum
       year: May 2016 - Jul 2016
       description:
-        - Topic: Simulation of HUDHUD cyclone using WRF-ARW
-        - Supervisor: Govindan Kutty M.
+        - "Topic: Simulation of HUDHUD cyclone using WRF-ARW"
+        - "Supervisor: Govindan Kutty M."
 
 - title: Grants, Scholarships, and Fellowships
   type: list
@@ -260,13 +260,13 @@
 - title: Computational Skills
   type: list
   contents:
-    - Scripting languages: Python, MATLAB, NCL, R
-    - Operating systems: Mac, Windows, Linux, Unix
-    - Climate data analysis and visualization: Ferret, CDO, NCO, ImageMagick
-    - Models: Community Earth System Model (CESM)
-    - Markup: LaTeX
-    - Experience with supercomputing clusters for climate modeling and large-scale climate data analysis
-    - Currently running CESM2 with variable resolution and moisture tagging capabilities
+    - "Scripting languages: Python, MATLAB, NCL, R"
+    - "Operating systems: Mac, Windows, Linux, Unix"
+    - "Climate data analysis and visualization: Ferret, CDO, NCO, ImageMagick"
+    - "Models: Community Earth System Model (CESM)"
+    - "Markup: LaTeX"
+    - "Experience with supercomputing clusters for climate modeling and large-scale climate data analysis"
+    - "Currently running CESM2 with variable resolution and moisture tagging capabilities"
 
 - title: Professional Memberships
   type: list
