@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1f2a"/>
+      <stop offset="100%" stop-color="#163d52"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="520" rx="24" fill="url(#bg)"/>
+  <rect x="28" y="28" width="344" height="464" rx="18" fill="none" stroke="#9ed9f0" stroke-width="4" opacity="0.55"/>
+  <text x="50%" y="92" fill="#9ed9f0" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" letter-spacing="2">Science of</text>
+  <text x="50%" y="136" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="middle">The Total Environment</text>
+  <rect x="56" y="174" width="288" height="10" fill="#9ed9f0" opacity="0.7"/>
+  <text x="50%" y="244" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700" text-anchor="middle">Cover</text>
+  <text x="50%" y="300" fill="#d5effa" font-family="Georgia, 'Times New Roman', serif" font-size="26" text-anchor="middle">2026</text>
+  <circle cx="200" cy="402" r="58" fill="#9ed9f0" opacity="0.18"/>
+  <path d="M165 430 C180 402, 220 402, 235 430" fill="none" stroke="#9ed9f0" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="180" cy="385" r="10" fill="#9ed9f0"/>
+  <circle cx="220" cy="385" r="10" fill="#9ed9f0"/>
+</svg>
