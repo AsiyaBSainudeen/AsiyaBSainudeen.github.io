@@ -4,34 +4,31 @@
     - name: Full Name
       value: Asiya Badarunnisa Sainudeen
     - name: Occupation
-      value: PhD Candidate in Geosciences
+      value: Postdoctoral Associate
     - name: Affiliation
-      value: University of Arizona
-    - name: Location
-      value: Tucson, AZ, USA
+      value: Atmospheric Sciences Research Center, University at Albany, State University of New York (SUNY)
+    - name: Work location
+      value: Research Applications Laboratory, NCAR, Boulder, CO, USA
     - name: Email
-      value: asiya@arizona.edu, asiyaishal@gmail.com
+      value: abadarunnisasainudeen@albany.edu, asiyaishal@gmail.com
     - name: Address
-      value: Department of Geosciences, University of Arizona, 1040 E 4th St, Tucson, AZ 85719
+      value: 3450 Mitchell Ln \#2260, Boulder, CO 80301 
 
 - title: Education
   type: time_table
   contents:
     - title: PhD Candidate in Geosciences
       institution: University of Arizona, Tucson, AZ, USA
-      year: Aug 2021 - Present
+      year: Aug 2021 - May 2026
       description:
         - "Advisor: Marcus Lofverstrom"
         - "Co-advisor: Diane Thompson"
         - "Minor: Global Change"
         - "Expected graduation: May 2026"
-        - "GPA: 4.0/4.0"
     - title: BS-MS in Earth Sciences
       institution: Indian Institute of Science Education and Research (IISER) Kolkata, India
       year: 2015 - 2020
-      description:
-        - CGPA: 9/10
-
+  
 - title: Research Interests
   type: list
   contents:
@@ -145,9 +142,14 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Postdoctoral Researcher, Atmospheric Sciences Research Center
+      institution: University at Albany, State University of New York (SUNY)
+      year: July 2026 - Present
+      description:
+        - Implementation of Water isotoplogues in the NOAA Unified Forecast System (UFS) model for climate and weather applications
     - title: PhD Candidate, Department of Geosciences
       institution: University of Arizona
-      year: Aug 2021 - Present
+      year: Aug 2021 - May 2026
       description:
         - Evaluating climate models for tropical South American summer rainfall
         - Using large ensembles to isolate forced vs internal variability in Amazon rainfall
