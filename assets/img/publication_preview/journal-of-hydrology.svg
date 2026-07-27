@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d5e73"/>
+      <stop offset="100%" stop-color="#4bb7c8"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="520" rx="24" fill="url(#bg)"/>
+  <rect x="28" y="28" width="344" height="464" rx="18" fill="none" stroke="#ffffff" stroke-width="4" opacity="0.35"/>
+  <text x="50%" y="94" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle">Journal of</text>
+  <text x="50%" y="138" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle">Hydrology</text>
+  <rect x="74" y="170" width="252" height="8" rx="4" fill="#ffffff" opacity="0.7"/>
+  <text x="50%" y="258" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" text-anchor="middle">Cover</text>
+  <text x="50%" y="314" fill="#e8fbff" font-family="Georgia, 'Times New Roman', serif" font-size="26" text-anchor="middle">2022</text>
+  <path d="M96 400 C140 360, 260 360, 304 400" fill="none" stroke="#e8fbff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M128 410 C152 386, 248 386, 272 410" fill="none" stroke="#e8fbff" stroke-width="5" stroke-linecap="round" opacity="0.8"/>
+</svg>

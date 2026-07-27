@@ -7,6 +7,8 @@ dropdown: true
 children:
   - title: bookshelf
     permalink: /books/
+  - title: books & movies
+    permalink: /books-movies/
   - title: divider
   - title: blog
     permalink: /blog/
