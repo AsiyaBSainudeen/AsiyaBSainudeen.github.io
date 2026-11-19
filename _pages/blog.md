@@ -1,9 +1,8 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
-nav: true
-nav_order: 1
+permalink: /articles/
+title: Articles
+nav: false
 pagination:
   enabled: true
   collection: posts

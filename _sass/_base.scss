@@ -19,6 +19,21 @@ strong {
   color: var(--global-text-color);
 }
 
+.teaching-institution {
+  color: var(--global-theme-color);
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 1.75rem;
+  margin-bottom: 0.6rem;
+}
+
+.teaching-course {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 1rem;
+  margin-bottom: 0.35rem;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }

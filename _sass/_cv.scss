@@ -42,6 +42,22 @@ a.btncv:hover {
  * CV TIME_TABLE styles
  *****************************/
 
+.cv-date-column {
+  width: 70px;
+  flex: 0 0 70px;
+}
+
+.cv-date-badge {
+  display: inline-block;
+  min-width: 0;
+  max-width: 70px;
+  padding: 0.15rem;
+  font-size: 0.58rem;
+  line-height: 1.2;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
 p.location {
   font-size: 0.7rem;
   white-space: nowrap;
@@ -54,7 +70,7 @@ i.iconlocation {
 
 i.iconinstitution {
   color: var(--global-theme-color);
-  font-size: 0.95rem;
+  font-size: 0.75rem;
   margin-right: 0.3rem;
 }
 

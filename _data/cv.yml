@@ -12,23 +12,22 @@
     - name: Email
       value: abadarunnisasainudeen@albany.edu, asiyaishal@gmail.com
     - name: Address
-      value: 3450 Mitchell Ln \#2260, Boulder, CO 80301 
+      value: 3450 Mitchell Ln \#2260, Boulder, CO 80301
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate in Geosciences
+    - title: PhD in Geosciences
       institution: University of Arizona, Tucson, AZ, USA
       year: Aug 2021 - May 2026
       description:
         - "Advisor: Marcus Lofverstrom"
         - "Co-advisor: Diane Thompson"
         - "Minor: Global Change"
-        - "Expected graduation: May 2026"
     - title: BS-MS in Earth Sciences
       institution: Indian Institute of Science Education and Research (IISER) Kolkata, India
       year: 2015 - 2020
-  
+
 - title: Research Interests
   type: list
   contents:
@@ -98,56 +97,15 @@
       description:
         - EGU2020-633
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Guest Lecturer, GEOS 437/537 Introduction to Earth-system modeling
-      institution: University of Arizona
-      year: Fall 2023
-      description:
-        - Delivered 1 class session
-    - title: Teaching Assistant, Geological Disasters and Society
-      institution: "University of Arizona (Instructor: Paul Goodman)"
-      year: Spring 2025, Fall 2025
-      description:
-        - "Class size: 120 students (1 TA)"
-        - Led study groups and assisted students with assignments
-        - Graded assignments and exams
-    - title: Teaching Assistant, Programming and Data Analysis in Earth Sciences
-      institution: "University of Arizona (Instructor: Chris Harig)"
-      year: Fall 2024
-      description:
-        - "Class size: 50 students (1 TA)"
-        - Supported in-class coding exercises and projects
-        - Graded homework and final assignments
-    - title: Teaching Assistant, Introduction to Oceanography
-      institution: "University of Arizona (Instructors: Joellen Russell, Paul Goodman)"
-      year: Fall 2023, Spring 2024
-      description:
-        - "Class size: >400 students (3 TAs)"
-        - Held office hours, managed course email, and graded assessments
-    - title: Teaching Assistant, Introduction to Computer Programming
-      institution: IISER Kolkata
-      year: Autumn 2019
-      description:
-        - "Class size: 200 students (4 TAs)"
-        - Assisted with coding during class and graded assignments
-    - title: Teaching Assistant, Introduction to Environmental Science
-      institution: IISER Kolkata
-      year: Spring 2020
-      description:
-        - "Class size: 100 students (2 TAs)"
-        - Led field trip and guided homework sessions
-
 - title: Research Experience
   type: time_table
   contents:
     - title: Postdoctoral Researcher, Atmospheric Sciences Research Center
       institution: University at Albany, State University of New York (SUNY)
-      year: July 2026 - Present
+      year: Aug 2026 - Present
       description:
         - Implementation of Water isotoplogues in the NOAA Unified Forecast System (UFS) model for climate and weather applications
-    - title: PhD Candidate, Department of Geosciences
+    - title: PhD, Department of Geosciences
       institution: University of Arizona
       year: Aug 2021 - May 2026
       description:

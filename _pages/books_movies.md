@@ -1,21 +1,25 @@
 ---
 layout: page
-title: Media
-permalink: /media/
+title: Blog
+permalink: /blog/
 nav: true
-nav_order: 7
+nav_order: 4
 ---
 
-This page is a simple template for books and movies.
+## Reading List
 
-## Currently reading
+#### November 2026
 
-Add your current book here later.
+- Currently reading: _Martyr_ by Kaveh Akbar
 
-## Recently watched
+## Watchlist
 
-Add your most recent movie here later.
+#### November 2026
 
-## Suggestions welcome
+- Currently watching: _Black Mirror_
 
-If you have a suggestion for a book or movie, share it with me.
+## Other Updates
+
+#### November 2026
+
+I ran my first official 10K at the Garmin November Race.
