@@ -9,19 +9,26 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-projects",
+          title: "Projects",
+          description: "My Research Projects",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "A growing collection of your cool projects.",
+        },{id: "nav-blog",
+          title: "Blog",
+          description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -32,17 +39,10 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Teaching experience in climate science, Earth sciences, and programming.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-media",
-          title: "Media",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/media/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -390,29 +390,29 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-phd-chapter-1",
-          title: 'PhD chapter 1',
-          description: "Model Evaluation and Large climate Data Analysis",
+            },},{id: "projects-postdoctoral-work",
+          title: 'Postdoctoral Work',
+          description: "Current research on atmospheric processes, weather, and climate modeling.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-phd-chapter-1-model-evaluation",
+          title: 'PhD Chapter 1: Model Evaluation',
+          description: "Evaluating how well climate models represent South American summer precipitation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-phd-chapter-2-internal-climate-variability-and-climate-change",
+          title: 'PhD Chapter 2: Internal Climate Variability and Climate Change',
+          description: "Large-ensemble climate data to understand the future of Amazon rainfall.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-phd-chapter-3-water-tagging-simulations-and-tropical-south-america",
+          title: 'PhD Chapter 3: Water-Tagging Simulations and Tropical South America',
+          description: "A one-of-a-kind water-tagging simulation with a high-resolution grid over South America.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-indian-hydroclimate-and-other-work",
+          title: 'Indian Hydroclimate and Other Work',
+          description: "Research on hydroclimate variability across South Asia and the wider climate system.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{
